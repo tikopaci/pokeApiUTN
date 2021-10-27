@@ -1,6 +1,6 @@
 # Pokedex App
 
-<img src="./public/pokedexApi.png" style="max-height:100px">
+<img src="/public/pokedexApi.PNG" style="max-height:100px">
 
 Project for UTN FullStack web develompent course, using:
 
