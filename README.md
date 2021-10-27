@@ -1,5 +1,6 @@
 # Pokedex App
 
+<img src=">
 ![pokeApi](./public/pokedexApi.png)
 
 Project for UTN FullStack web develompent course, using:
@@ -7,8 +8,6 @@ Project for UTN FullStack web develompent course, using:
 - [npm](https://www.npmjs.com/) - Package manager
 - [React](https://es.reactjs.org/) - Framework, npx create-react-app.
 - [axios](https://www.npmjs.com/package/axios) - for HTTP petitions.
-
-**Project made with React.js**
 
 ## Pokeapi data in:
 
