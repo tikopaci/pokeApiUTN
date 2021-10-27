@@ -1,7 +1,6 @@
 # Pokedex App
 
-<img src=">
-![pokeApi](./public/pokedexApi.png)
+<img src="./public/pokedexApi.png" style="max-height:100px">
 
 Project for UTN FullStack web develompent course, using:
 
@@ -23,4 +22,4 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-By Santiago Paci [Santiago](https://github.com/tikopaci)
+By [Santiago](https://github.com/tikopaci)
