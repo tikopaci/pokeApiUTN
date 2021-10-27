@@ -13,6 +13,15 @@
   }
 }
 
+.background {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(83, 83, 83);
+  min-height: 100vh;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -21,7 +30,12 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(70, 70, 70);
+}
+
+.pokedex {
+  width: 110px;
+  height: 110px;
 }
 
 .App-link {
